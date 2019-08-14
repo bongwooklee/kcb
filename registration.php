@@ -11,7 +11,7 @@
 				<tr>
 					<td width="100%" height="1376" valign="top"><p>&nbsp;</p>
 <p class="mainbodyheader">Registration Information</p>
-<p style="margin-left:17px;"><strong>Boston Korean School 2017-2018 Registration </strong></p>
+<p style="margin-left:17px;"><strong>Boston Korean School 2019-2020 Registration </strong></p>
 
 <p style="margin-left:17px;"><a href="registration_en.php">Click here for English version</a></p>
 
@@ -19,7 +19,7 @@
 <tr>
 	<td>School Year</td>
 	<td>
-		9/9/2017 - 5/19/2018<br />
+		9/7/2019 - 5/16/2020<br />
 		토요일 년 32주 수업 (32 Saturdays /year)<br />
 	</td>
 </tr>
@@ -29,7 +29,7 @@
 		Last Day to Register<br />
 	</td>
 	<td>
-		9/9/2017<br />
+		9/7/2019<br />
 		효과적인 반 편성을 위해 미리 등록하여 주시면 감사하겠습니다.<br />
 		Please register early!<br />
 	</td>
@@ -72,9 +72,9 @@
 		교재비 포함 (Books included)<br />
 	</td>
 	<td>
-		첫째자녀(1<sup>st</sup>): $315/semester<br />
-		둘째자녀(2<sup>nd</sup>): $275/semester<br />
-		셋째자녀(3<sup>rd</sup>): $190/semester<br />
+		첫째자녀(1<sup>st</sup>): $320/semester<br />
+		둘째자녀(2<sup>nd</sup>): $280/semester<br />
+		셋째자녀(3<sup>rd</sup>): $195/semester<br />
 	</td>
 </tr>
 <tr>
