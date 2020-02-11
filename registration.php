@@ -20,7 +20,7 @@
 	<td>School Year</td>
 	<td>
 		9/7/2019 - 5/16/2020<br />
-		토요일 년 32주 수업 (32 Saturdays /year)<br />
+		토요일 년 31주 수업 (31 Saturdays /year)<br />
 	</td>
 </tr>
 <tr>

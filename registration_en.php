@@ -18,7 +18,7 @@
 	<td>School Year</td>
 	<td>
 		9/7/2019 - 5/16/2020<br />
-		32 Saturdays /year<br />
+		31 Saturdays /year<br />
 	</td>
 </tr>
 <tr>
